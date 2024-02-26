@@ -12,7 +12,7 @@
             <h1>Apresentando os membros que compõem ele</h1>
             <img src="https://palotinapress.com.br/midias/conteudo/C12997-dia-de-cooperar-voluntariado-transforma-escola-de-palotina-0ae60afe77.jpg" alt="Zardo">
         </header>
-        <article>
+        <article>Atualmente a sala conta com 35 alunos, das idades entre 15 e 17 anos<article>
             <h2>Curso de HTML5 com CSS3</h2>
             <img class="lado" src="imagens/curso-html-css.png" alt="Curso HTML">
             <p>A <abbr title="HyperText Markup Language">HTML</abbr> é uma linguagem de marcação para a criação de sites. Atualmente na versão 5, ela usa a semântica dos elementos para criar o conteúdo de uma página Web. Com as <abbr title="Cascading Style Sheets">CSS</abbr>, criamos as configurações visuais que um site vai ter.</p>
