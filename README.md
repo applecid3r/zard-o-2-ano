@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Curso em Vídeo</title>
+    <title>Zardo 2 ano</title>
     <link rel="stylesheet" href="estilos/style.css">
 </head>
 <body>
     <main>
         <header>
-            <h1>Cursos Grátis</h1>
-            <img src="imagens/curso-em-video-cor.png" alt="Curso em Vídeo">
+            <h1>Apresentando os membros que compõem ele</h1>
+            <img src="https://palotinapress.com.br/midias/conteudo/C12997-dia-de-cooperar-voluntariado-transforma-escola-de-palotina-0ae60afe77.jpg" alt="Zardo">
         </header>
         <article>
             <h2>Curso de HTML5 com CSS3</h2>
